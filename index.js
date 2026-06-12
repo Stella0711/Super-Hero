@@ -28,5 +28,7 @@ async function main() {
             </div>
          </div>`;
   }
+
+  console.log("Hello World!");
     
 
